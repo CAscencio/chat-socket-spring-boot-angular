@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
     "@stomp/stompjs": "^5.4.4",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^4.6.1",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "rxjs": "~6.4.0",
