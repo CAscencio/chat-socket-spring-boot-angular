@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.14",
     "@stomp/stompjs": "^5.4.4",
     "bootstrap": "^4.5.0",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.2",
     "popper.js": "^1.16.1",
     "rxjs": "~6.4.0",
     "sockjs-client": "^1.5.2",
